@@ -10,8 +10,6 @@ Certifications: MSP®, PRINCE2®, CRMP®, SAFe® (SA, SP, SSM), AWS Solutions Ar
 
 Experience: Government of Canada Major Crown Projects, Global initiatives with Gen AI Global @ MIT, strategic digital transformations in both public and private sectors
 
-Security Clearance: Secret (Level II), Government of Canada
-
 🚀 Current Learning Journey:
 
 Python, Solidity, HTML, CSS, JavaScript
