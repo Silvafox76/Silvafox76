@@ -1,6 +1,6 @@
 👋 Hi, I'm Ryan Dear (@Silvafox76)
 
-I'm a seasoned Digital Transformation Specialist and Senior IT Program/Project Manager with over 25 years of experience leading impactful initiatives in AI, Machine Learning, Cloud Architecture (AWS, Azure), Cybersecurity, and Agile methodologies. I hold extensive certifications from industry leaders such as MIT, Stanford, IBM, Microsoft, AWS, and Google, reflecting a deep commitment to continuous learning and innovation.
+I'm a seasoned Digital Transformation Specialist and Senior IT Program/Project Manager with over 25 years of experience leading impactful initiatives in AI, Machine Learning, Cloud Architecture (AWS, Azure, GCP), Cybersecurity, and Agile methodologies. I hold extensive certifications from industry leaders such as MIT, Stanford, IBM, Microsoft, AWS, and Google, reflecting a deep commitment to continuous learning and innovation.
 
 🌟 Professional Highlights:
 
