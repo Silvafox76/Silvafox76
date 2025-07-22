@@ -12,7 +12,7 @@ Experience: Government of Canada Major Crown Projects, Global initiatives with G
 
 🚀 Current Learning Journey:
 
-Python, Solidity, HTML, CSS, JavaScript, Java
+Python, Solidity, HTML, CSS, JavaScript, Java, IaC (Terraform, Ansible), SaaS, XaaS, PaaS, IaaS, NLP, Computer Vision, GEN AI, ML
 
 Deepening expertise in Generative AI, LangChain, Vector Databases, and Blockchain Technologies
 
