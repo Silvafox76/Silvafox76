@@ -30,7 +30,7 @@ Cybersecurity enhancements
 
 📫 Connect with Me:
 
-Email: ryan.w.dear@gmail.com
+Email: ryan.w.dear@gmail.com; or ryan.w.dear@foxonai.com; SilvafoxITCosulting@outlook.com
 
 LinkedIn: Ryan Dear
 
